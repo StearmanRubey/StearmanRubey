@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-##Currently Studying at Cal Poly SLO
+Currently Studying at Cal Poly SLO
 
 <!--
 **StearmanRubey/StearmanRubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
