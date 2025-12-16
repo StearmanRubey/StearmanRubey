@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I'm Stearman Rubey and I'm a Sophomore at Cal Poly SLO Studying Computer Science!
 
 <!--
 **StearmanRubey/StearmanRubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
